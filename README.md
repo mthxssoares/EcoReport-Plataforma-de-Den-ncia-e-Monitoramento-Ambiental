@@ -82,36 +82,6 @@ Atualmente, a plataforma permite registrar os seguintes tipos de ocorrência:
 
 ---
 
-## Estrutura do Projeto
-
-```text
-EcoReport/
-│
-├── app.py
-├── criar_banco.py
-├── database.db
-├── .gitignore
-│
-├── static/
-│   ├── style.css
-│   └── uploads/
-│
-├── templates/
-│   ├── index.html
-│   ├── reportar.html
-│   └── mapa.html
-│
-└── docs/
-    └── images/
-        ├── banner.png
-        ├── home.png
-        ├── reportar.png
-        ├── mapa.png
-        └── fluxo.gif
-```
-
----
-
 ## Descrição dos Principais Arquivos
 
 ### `app.py`
